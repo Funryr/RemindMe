@@ -1,6 +1,6 @@
 package com.proba.remindme;
 
-//FAA- Урок 9. TabLayout & ViewPager. Часть 2_HD
+//FAA- Урок 10. Приводим приложение к сходству с макетом_HD
 
 import android.os.Bundle;
 import android.support.design.widget.NavigationView;
