@@ -1,6 +1,6 @@
 package com.proba.remindme;
 
-//FAA- Урок 12. Прокачиваем наши фрагменты и Табы. Часть 2_HD
+//FAA- Урок 13. Добавляем CardView в качестве элемента напоминаний_HD
 
 import android.os.Bundle;
 import android.support.design.widget.NavigationView;
